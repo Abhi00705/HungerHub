@@ -209,10 +209,7 @@ For more detailed instructions and examples, refer to our official documentation
 
 ```bash
 # Clone the repository
-git clone https://github.com/VampsDamon/Namshte-React-S2.git
-
-# Change directory
-cd namshte-react-s2
+git clone https://github.com/Abhi00705/HungerHub.git
 
 # Install dependencies
 npm install
